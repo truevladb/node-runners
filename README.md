@@ -4,4 +4,5 @@ If you mix MEME with CORE and spice it up with 2074 flavors, you will get Node R
 Stake liquidity to get your Heroes → stake your Heroes to receive NDR → fight Villains to win their cards and free the world!
 
 **NDR token** https://etherscan.io/address/0x739763a258640919981f9ba610ae65492455be53
+
 **NFT Staking smart contract** https://etherscan.io/address/0x81b6a8bf87817adca4874838560966957c3e01e5
